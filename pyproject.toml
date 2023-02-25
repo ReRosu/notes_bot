@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "notes-bot"
+version = "0.1.0"
+description = ""
+authors = ["ReRosu <recrea.tor@yandex.ru>"]
+readme = "README.md"
+packages = [{include = "notes_bot"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = "2.25.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
