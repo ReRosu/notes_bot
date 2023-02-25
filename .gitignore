@@ -1,0 +1,19 @@
+# extensions
+*.log
+*.conf
+*.json
+
+# dirs
+.idea
+__pycache__
+cache
+logs
+.pytest_cache
+examples
+venv
+
+# files
+test.py
+push.sh
+config.json
+.env
