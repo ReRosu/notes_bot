@@ -17,3 +17,4 @@ test.py
 push.sh
 config.json
 .env
+poetry.lock
